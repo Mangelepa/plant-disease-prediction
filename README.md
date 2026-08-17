@@ -52,7 +52,7 @@ A sequential CNN built from scratch with three convolutional blocks:
 - **Optimizer:** Adam (lr=1e-4)
 - **Loss:** Categorical Crossentropy
 
-### Model 2 — MobileNetV2 (Transfer Learning) ⭐ Final Model
+### Model 2 — MobileNetV2 (Transfer Learning)  Final Model
 
 Leverages MobileNetV2 pre-trained on ImageNet as a frozen feature extractor, with a custom classification head added on top.
 
@@ -69,7 +69,7 @@ Leverages MobileNetV2 pre-trained on ImageNet as a frozen feature extractor, wit
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric | Custom CNN | MobileNetV2 |
 |---|---|---|
