@@ -106,8 +106,8 @@ Pillow
 
 ## Future Work
 
-**Fine-tune MobileNetV2** — unfreeze top layers for domain-specific fine tuning to push accuracy further
-**Expand dataset** — include more plant species and rare disease classes
-**Deploy as a web app** — Deploy the model for real time usage
-**Multi-label classification** — detect multiple diseases present in a single leaf image
+-Fine-tune MobileNetV2- unfreeze top layers for domain-specific fine tuning to push accuracy further
+-Expand dataset -include more plant species and rare disease classes
+-Deploy as a web app — Deploy the model for real time usage
+-Multi-label classification — detect multiple diseases present in a single leaf image
 https://plant-disease-prediction-b4sbuy9kdrv5r9gsy8uzha.streamlit.app/
