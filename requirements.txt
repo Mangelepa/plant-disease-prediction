@@ -1,8 +1,0 @@
-tensorflow>=2.15
-numpy
-pandas
-matplotlib
-scikit-learn
-Pillow
-uvicorn 
-streamlit
